@@ -1,11 +1,11 @@
 package projects
 
 import (
-	"github.com/dzungtran/echo-rest-api/modules/core"
-	"github.com/dzungtran/echo-rest-api/modules/projects/handlers"
-	"github.com/dzungtran/echo-rest-api/modules/projects/repositories"
-	"github.com/dzungtran/echo-rest-api/modules/projects/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
+	"github.com/khoanv1001/go-echo-sample/modules/core"
+	"github.com/khoanv1001/go-echo-sample/modules/projects/handlers"
+	"github.com/khoanv1001/go-echo-sample/modules/projects/repositories"
+	"github.com/khoanv1001/go-echo-sample/modules/projects/usecases"
+	"github.com/khoanv1001/go-echo-sample/pkg/middlewares"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/dig"
 )

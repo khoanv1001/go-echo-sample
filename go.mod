@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/khoanv1001/go-echo-sample
 
 go 1.21
 
